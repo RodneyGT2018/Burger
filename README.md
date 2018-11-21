@@ -26,24 +26,33 @@ App Link:
 
 ## Eat-Da-Burger Screenshots
 
-Homepage:
+Splash page with 3 burgers created by the developer:
 
-<img width="1426" alt="screen shot 2018-11-14 at 4 37 23 pm" src="https://user-images.githubusercontent.com/38221513/48516449-65936480-e831-11e8-9348-8637e40bf2b3.png">
-
-
-Survey Page:
-
-<img width="1440" alt="screen shot 2018-11-14 at 5 17 32 pm" src="https://user-images.githubusercontent.com/38221513/48516483-7e9c1580-e831-11e8-9b80-cdf8d76834c3.png">
+<img width="919" alt="screen shot 2018-11-21 at 10 35 09 am" src="https://user-images.githubusercontent.com/38221513/48852132-b26bc380-ed7a-11e8-9b7e-f71784fee791.png">
 
 
-New best friend result modal:
 
-<img width="1440" alt="screen shot 2018-11-14 at 5 18 09 pm" src="https://user-images.githubusercontent.com/38221513/48516530-996e8a00-e831-11e8-862a-984649b6f6e7.png">
+Click the devour button for any of the burgers and watch it disappear and immediately reappear under the "Devoured Burgers" section on the right (Burger #3 in this screeshot): 
+
+<img width="919" alt="screen shot 2018-11-21 at 10 35 24 am" src="https://user-images.githubusercontent.com/38221513/48852153-bd265880-ed7a-11e8-9c1e-afdd983ce6c0.png">
 
 
-Friends listing that adds new friends:
 
-<img width="1321" alt="screen shot 2018-11-14 at 5 14 55 pm" src="https://user-images.githubusercontent.com/38221513/48516593-bc00a300-e831-11e8-9d17-975a1875c613.png">
+Type in a new burger in the "Add A Burger" section at the bottom...
+
+<img width="919" alt="screen shot 2018-11-21 at 10 35 43 am" src="https://user-images.githubusercontent.com/38221513/48852181-ca434780-ed7a-11e8-952b-78931c062f9b.png">
+
+
+...and then watch it immediately appear in the "Burgers Ready To Be Devoured" section above:
+
+<img width="919" alt="screen shot 2018-11-21 at 10 35 49 am" src="https://user-images.githubusercontent.com/38221513/48852205-de874480-ed7a-11e8-8b6f-79181b12a0d6.png">
+
+
+
+Lastly, you can also devour the burger you just created above:
+
+<img width="919" alt="screen shot 2018-11-21 at 10 36 01 am" src="https://user-images.githubusercontent.com/38221513/48852231-eba43380-ed7a-11e8-9f14-b16ab8486f87.png">
+
 
 
 
